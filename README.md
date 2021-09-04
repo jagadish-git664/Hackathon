@@ -91,5 +91,22 @@ What about behaviour code ?
 Motivation behind META RTL 
 ![image](https://user-images.githubusercontent.com/73343230/132096814-7cc6b272-98b8-4b32-bba8-ce997e4cee23.png)
 
+![image](https://user-images.githubusercontent.com/73343230/132098035-e040cb18-7b2c-47d1-aeb8-4bb9e25ed809.png)
+Need to provide the formal specifiatin to metal rtl frame work which will generate the behaviour code , this can 
+be provided to FPGA for bit stream  . 
+
+![image](https://user-images.githubusercontent.com/73343230/132098092-32a83b17-7726-4b4f-9367-7a03a173aeb1.png)
+Libraries to be used for Hackathon  . 
+We need to provide the configuration . 
+
+META RTL SOC FLOW AND DEMO :
+
+![image](https://user-images.githubusercontent.com/73343230/132098222-a666a2c6-157c-4bc8-bf5d-b428ae3dd218.png)
+1) Basic idea of Metal rtl to convert soc idea to implementation flow in few hours. Using the tool set we can 
+use the existing Ip and configure to generate RTL and firmware as well . 
+2) Write application code and compile with necessary compiler extension . 
+3) We can use this in fpga for now using vidado for synthesis and simulation . 
+
+
 
 
